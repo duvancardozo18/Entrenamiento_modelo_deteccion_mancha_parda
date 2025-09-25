@@ -1,0 +1,1 @@
+# Entrenamiento_modelo_deteccion_mancha_parda
